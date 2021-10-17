@@ -113,7 +113,7 @@ msgstr "배경화면 변경"
 msgid "Display Settings"
 msgstr "화면 설정"
 
-#: desktopManager.js:598
+#: desktopManager.js:598 preferences.js:90
 msgid "Desktop Icons settings"
 msgstr "바탕화면 아이콘 설정"
 
