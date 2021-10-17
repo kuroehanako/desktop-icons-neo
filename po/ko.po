@@ -148,7 +148,7 @@ msgstr "선택 파일 중 디렉토리가 포함되어 있어, 먼저 파일로 
 #. TRANSLATORS: "Home" is the text that will be shown in the user's personal folder
 #: fileItem.js:151
 msgid "Home"
-msgstr "Home"
+msgstr "내 폴더"
 
 #: fileItem.js:794
 msgid "Open All..."
